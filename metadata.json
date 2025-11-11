@@ -1,0 +1,8 @@
+{
+  "name": "OptiRead",
+  "description": "An AI-powered assistant for the blind and visually impaired. It uses the camera and microphone to describe scenes, people, answer questions, and provide navigation guidance through voice output.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
